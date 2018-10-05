@@ -1,0 +1,41 @@
+body{
+    background: black;
+    color: white;
+}
+.img-container{
+    background: url(http://gph.is/2r6rWoA)
+}
+.content{
+    /* background: #ffffff93; */
+    font-family: 'Indie Flower', cursive;
+    margin-right: 50px;
+    padding: 50px;
+    width: 650px;
+    padding-top:120px;
+    float: right;
+    font-size: 2em;
+    height: 580;
+}
+.index-button{
+    background: #3836363b;
+    font-family: 'Satisfy', cursive;
+    border-radius: 50px;
+    text-align: center;
+    
+    font-size: 40px;
+    padding: 10px;
+    display: inline-block;
+    /* position: absolute; */
+    margin:0 auto;
+    margin-left: 50px;
+    width: 200px;
+    margin-top:20px;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    color:#ffff;
+    cursor: pointer;
+}
+.index-button:hover{
+    color: rgb(209, 41, 41);
+}

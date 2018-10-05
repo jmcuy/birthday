@@ -1,0 +1,58 @@
+body{
+    background: url(http://www.twitrcovers.com/wp-content/uploads/2012/09/Sky.jpg) no-repeat;
+    background-size: cover;
+   
+}
+.img-container{
+    background: transparent;
+    width: 500px;
+    box-shadow: 0 5px 8px #888888;
+    float: left;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+}
+.img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100%;
+
+}
+.index-button{
+    background: #3836363b;
+    font-family: 'Satisfy', cursive;
+    border-radius: 50px;
+    text-align: center;
+    width: 200px;
+    font-size: 40px;
+    padding: 10px;
+    /* position: absolute; */
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    color:#ffff;
+    cursor: pointer;
+}
+.index-button:hover{
+    color: rgb(209, 41, 41);
+}
+.content{
+    /* background: #ffff; */
+    background: transparent;
+    font-family: 'Satisfy', cursive;
+    /* box-shadow: 0 5px 8px #888888; */
+    text-align: center;
+    font-size: 3em;
+    width: 680px;
+    height: 580px;
+    padding: 100px 50px 0 50px;
+    float: left;
+    margin-left: 20px;
+    display: inline-block;
+}
